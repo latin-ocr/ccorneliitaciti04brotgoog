@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti04brotgoog_0343.png"; bbox 0 0 4975 6149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 755 1306 3554 2233">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 755 1216 3554 2309">
+     <span class='ocr_line' id='line_1_1' title="bbox 1225 1306 3410 1604; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1225 1306 3410 1604; x_wconf 63' lang='lat' dir='ltr'>NQTAE-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 755 1753 3554 2233; baseline 0.003 -11"><span class='ocrx_word' id='word_1_2' title='bbox 755 1753 3554 2233; x_wconf 55' lang='lat' dir='ltr'>EMENDXTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 853 2448 3432 2575">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 853 2448 3432 2575">
+     <span class='ocr_line' id='line_1_3' title="bbox 853 2448 3432 2575; baseline -0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 853 2450 1120 2572; x_wconf 84' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_4' title='bbox 1198 2453 1529 2573; x_wconf 86' lang='lat' dir='ltr'>SEX</span> <span class='ocrx_word' id='word_1_5' title='bbox 1585 2450 2759 2575; x_wconf 85' lang='lat' dir='ltr'><em>POSTERIORES</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2832 2448 3432 2570; x_wconf 85' lang='lat' dir='ltr'><em>LIBROS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 945 2732 3360 3332">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 945 2732 3360 3332">
+     <span class='ocr_line' id='line_1_4' title="bbox 1259 2732 3040 2950; baseline 0.001 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1259 2788 1434 2947; x_wconf 89' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1508 2790 1670 2949; x_wconf 82' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_9' title='bbox 1745 2790 1907 2949; x_wconf 82' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_10' title='bbox 1985 2732 2375 2950; x_wconf 70' lang='lat' dir='ltr'>A&#39;L</span> <span class='ocrx_word' id='word_1_11' title='bbox 2458 2789 2532 2950; x_wconf 91' lang='lat'>1</span> <span class='ocrx_word' id='word_1_12' title='bbox 2607 2788 2765 2950; x_wconf 85' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_13' title='bbox 2843 2788 3040 2948; x_wconf 87' lang='lat' dir='ltr'>M</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 945 3132 3360 3332; baseline -0.001 -69"><span class='ocrx_word' id='word_1_14' title='bbox 945 3135 1106 3263; x_wconf 80' lang='lat' dir='ltr'>c.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1258 3136 2374 3332; x_wconf 81' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_16' title='bbox 2523 3132 3360 3266; x_wconf 86' lang='lat' dir='ltr'><strong>TACITI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1641 3451 2696 3510">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1641 3451 2696 3510">
+     <span class='ocr_line' id='line_1_6' title="bbox 1641 3451 2696 3510; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1641 3451 2696 3510; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
